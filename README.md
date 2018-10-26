@@ -1,4 +1,5 @@
-# SICXE-Assembler
+#SIC/XE Assember with support for control sections
+- Varan Shukla and Hrushikesh Hanbar
 
 ->Compile using Standard C++11 compiler, on linux terminal use "g++ -std=c++11 assembler.cpp" .
 
